@@ -1,6 +1,6 @@
 # FlightEconomist
 
-**Flight Deal Finder** is a Python-based application that helps you find flight deals by searching for economical flight prices between a specific origin city and various destination cities. The program uses data from the Sheety API for destination information and the Tequila API for flight searches. You input a list of destinations and price cutoffs into your google sheet and when a flight that meets your criteria within the next six months is found, the program sends you an SMS notification using the Twilio API.
+Python-based application that helps you find flight deals by searching for economical flight prices between a specific origin city and various destination cities. The program uses data from the Sheety API for destination information and the Tequila API for flight searches. You input a list of destinations and price cutoffs into your google sheet and when a flight that meets your criteria within the next six months is found, the program sends you an SMS notification using the Twilio API.
 
 ## Introduction
 
